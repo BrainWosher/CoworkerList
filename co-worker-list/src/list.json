@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "lastName": "Октавиус",
+        "firstName": " Отто",
+        "patronymic": " Осьминогович",
+        "birth": " 12.04.1978",
+        "time-table": "1",
+        "position": "Доктор",
+        "subdivision": "Лаборатория"
+    },
+    {
+        "id": 2,
+        "lastName": "Фамилия",
+        "firstName": " Имя",
+        "patronymic": " Отчество",
+        "birth": " 10.09.1990",
+        "time-table": "2",
+        "position": "Разработчик",
+        "subdivision": "Цех1"
+    },
+    {
+        "id": 3,
+        "lastName": "Фамилия1",
+        "firstName": " Имя1",
+        "patronymic": " Отчество1",
+        "birth": " 09.11.1590",
+        "time-table": "3",
+        "position": "Дизайнер",
+        "subdivision": "Офис"
+    },
+    {
+        "id": 4,
+        "lastName": "Фамилия2",
+        "firstName": " Имя2",
+        "patronymic": " Отчество2",
+        "birth": " 01.01.1958",
+        "time-table": "1",
+        "position": "Младший разработчик",
+        "subdivision": "Офис"
+    }
+]
