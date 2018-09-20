@@ -7,19 +7,15 @@ function Home() {
             <Grid>
                 <Row className="show-grid">
                     <Col xs={12}>
-                    <code>{<h1 className="mdc-typography--display1">Библиотека JavaScript-разработчика</h1>}</code>
+                        <h1 className="mdc-typography--display1">Список сотрудников</h1>
                     </Col>
                 </Row>
                 <Row className="show-grid">
                     <Col xs={12} >
-                    <code>
-                        {
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis amet quibusdam nobis eius suscipit. 
-                                Eius vel dolores, sapiente ipsa, eligendi saepe, soluta ex praesentium perspiciatis cupiditate libero 
-                                veniam magni, unde.
-                            </h4>
-                        }
-                    </code>
+                        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis amet quibusdam nobis eius suscipit. 
+                            Eius vel dolores, sapiente ipsa, eligendi saepe, soluta ex praesentium perspiciatis cupiditate libero 
+                            veniam magni, unde.
+                        </h4>
                     </Col>                    
                 </Row>
             </Grid>            
